@@ -9,7 +9,7 @@ This .ipynb file was created with Google Colab to use transfer learning and trai
 ### ObjectDetection.py
 This python script loads the object detection model and uses OpenCV to draw the bounding boxes around the detected objects. An .MP4 file is returned with the detections.
 
-### rename_and_flip_files.py [https://github.com/knolasco/Microsoft_Object_Detection/blob/main/rename_and_flip_files.py]
+### [rename_and_flip_files.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/rename_and_flip_files.py)
 This python script renames the training images and saves a reflected copy. The purpose of reflecting the image is so that the model can learn from an equal amount of "left" and "right" waves.
 
 ### split_images.py
