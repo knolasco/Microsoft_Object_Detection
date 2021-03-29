@@ -3,7 +3,7 @@
 ### [Baseline Model](https://github.com/knolasco/Microsoft_Object_Detection/tree/main/basline_model/model)
 This folder contains the files necessary to load the baseline model. The baseline model was trained with 1,386 images without preprocessing. The model was trained for 5,000 steps with a batch size of 32.
 
-#### [Example of Results from Baseline Model]()
+#### [Example of Results from Baseline Model](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/basline_model/CH0I4193_detection_Trim.gif)
 
 ### [Microsoft_Surfer_Baseline_Object_Detection](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Microsoft_Surfer_Baseline_Object_Detection.ipynb) 
 This .ipynb file was created with Google Colab to use transfer learning and train our object detector. I am using Google Colab because of the free GPU service that will greatly improve the training time compared to the CPU on my laptop.
