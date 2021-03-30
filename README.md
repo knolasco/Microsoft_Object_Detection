@@ -8,6 +8,9 @@ This folder contains the files necessary to load the baseline model. The baselin
 ### [Microsoft_Surfer_Baseline_Object_Detection](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Microsoft_Surfer_Baseline_Object_Detection.ipynb) 
 This .ipynb file was created with Google Colab to use transfer learning and train our object detector. I am using Google Colab because of the free GPU service that will greatly improve the training time compared to the CPU on my laptop.
 
+### [Microsoft Surfer Detection 2](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Microsoft_Surfer_Detection_2.ipynb)
+This .ipynb file was created with Google Colab to use transfer learning adn train our object detector. This time, the images were preprocessed with gray scale and blur. The training was manually stopped because the performance was plateauing.
+
 ### [ObjectDetection.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/ObjectDetection.py)
 This python script loads the object detection model and uses OpenCV to draw the bounding boxes around the detected objects. An .MP4 file is returned with the detections.
 
