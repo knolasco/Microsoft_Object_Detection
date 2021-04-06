@@ -24,6 +24,7 @@ dm-tree==0.1.5
 docopt==0.6.2
 entrypoints==0.3
 fastavro==1.3.2
+ffmpeg==1.4
 flatbuffers==1.12
 future==0.18.2
 gast==0.3.3
@@ -44,6 +45,8 @@ h5py==2.10.0
 hdfs==2.6.0
 httplib2==0.17.4
 idna==2.10
+imageio==2.9.0
+imageio-ffmpeg==0.4.3
 importlib-resources==5.1.2
 ipykernel==5.5.0
 ipython==7.21.0
@@ -69,6 +72,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.4
 mistune==0.8.4
 mock==2.0.0
+moviepy==1.0.3
 nbclient==0.5.3
 nbconvert==6.0.7
 nbformat==5.1.2
@@ -77,7 +81,7 @@ notebook==6.2.0
 numpy==1.19.3
 oauth2client==4.1.3
 oauthlib==3.1.0
-object-detection @ file:///C:/Users/Kevin%27s%20PC/Documents/Python%20Projects/Peak%20Detection%20for%20Surfline/models/research
+object-detection==0.1
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
 opencv-python-headless==4.5.1.48
@@ -89,6 +93,7 @@ parso==0.8.1
 pbr==5.5.1
 pickleshare==0.7.5
 Pillow==8.1.2
+proglog==0.1.9
 prometheus-client==0.9.0
 promise==2.3
 prompt-toolkit==3.0.16
@@ -123,6 +128,7 @@ requests-oauthlib==1.3.0
 rsa==4.7.2
 scikit-learn==0.24.1
 scipy==1.6.1
+seaborn==0.11.1
 Send2Trash==1.5.0
 sentencepiece==0.1.95
 seqeval==1.2.2
@@ -143,6 +149,7 @@ text-unidecode==1.3
 tf-models-official==2.4.0
 tf-slim==1.1.0
 threadpoolctl==2.1.0
+tk==0.1.0
 tornado==6.1
 tqdm==4.59.0
 traitlets==5.0.5
