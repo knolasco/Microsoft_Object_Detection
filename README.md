@@ -1,5 +1,7 @@
 # Description of Files
 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/66560796/114232143-47fa5480-9930-11eb-9241-3fad9dd6b7b8.png)
+
 ### [Video_Effects.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Video_Effects.py)
 This python script takes the json output from GenerateJson.py and creates an automaticall zooms into the surfer.
 ## [Example of Auto-Zoom](https://user-images.githubusercontent.com/66560796/114231182-f3a2a500-992e-11eb-992f-f5476d4f9799.mp4)
