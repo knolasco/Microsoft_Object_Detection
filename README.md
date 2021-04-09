@@ -15,3 +15,6 @@ This python script renames the training images and saves a reflected copy. The p
 ### [split_images.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/split_images.py)
 This python script splits the image files into a train and test set along with their corresponding .XML files.
 
+
+https://user-images.githubusercontent.com/66560796/114231182-f3a2a500-992e-11eb-992f-f5476d4f9799.mp4
+
