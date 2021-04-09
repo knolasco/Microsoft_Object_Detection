@@ -1,5 +1,7 @@
 # Description of Files
 
+Below you can see the results from the project.
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/66560796/114232143-47fa5480-9930-11eb-9241-3fad9dd6b7b8.png)
 
 ### [Video_Effects.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Video_Effects.py)
