@@ -18,4 +18,8 @@ This python script renames the training images and saves a reflected copy. The p
 This python script splits the image files into a train and test set along with their corresponding .XML files.
 
 
+### [DataAug.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/DataAug.py)
+This python script augments the images used for training by brightening and slightly rotating. This is useful in the future in case we need to train the model on more data.
 
+### [GenerateJson.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/GenerateJson.py)
+This python script takes frames from a video as input and returns a json file with information about the bounding boxes for the surfer and wave. The jsons that are generated from this script are used to assemble a video that combines the result from another model.
