@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project was a collaboration with a team of machine learning engineers at Microsoft. The purpose of this project was to build a prototype software that Olympic Surf coaches could use to analyse their athelete's techniques in real time. My contribution to this project was a model that would detect the "critical section" of the wave and the surfer on the wave, and an auto-zoom feature that keeps the camera focused on the surfer.
+This project was a collaboration with a team of machine learning engineers at Microsoft as part of a private Microsoft Hackathon. The purpose of this project was to build a prototype software that Olympic Surf coaches could use to analyse their athelete's techniques in real time. My contribution to this project was a model that would detect the "critical section" of the wave and the surfer on the wave, and an auto-zoom feature that keeps the camera focused on the surfer. Above is a screenshot of the prototype software that was completed at the end of the Hackathon.
 
 # Description of Files
 
