@@ -1,5 +1,9 @@
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/66560796/114232143-47fa5480-9930-11eb-9241-3fad9dd6b7b8.png)
 
+# Introduction
+
+This project was a collaboration with a team of machine learning engineers at Microsoft. The purpose of this project was to build a prototype software that Olympic Surf coaches could use to analyse their athelete's techniques in real time. My contribution to this project was a model that would detect the "critical section" of the wave and the surfer on the wave, and an auto-zoom feature that keeps the camera focused on the surfer.
+
 # Description of Files
 
 ### [Video_Effects.py](https://github.com/knolasco/Microsoft_Object_Detection/blob/main/Video_Effects.py)
